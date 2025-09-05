@@ -1,6 +1,6 @@
 body {
     font-family: Arial, sans-serif;
-    background: #f8f9fa;
+    background: #ffffff;
     margin: 0;
     padding: 0;
     color: #2d2c2c;
@@ -11,7 +11,7 @@ body {
     max-width: 600px;
     margin: 80px auto;
     padding: 20px;
-    background: white;
+    background: rgb(216, 215, 215);
     border-radius: 12px;
     box-shadow: 0 6px 18px rgba(0,0,0,0.1);
 }
