@@ -15,6 +15,7 @@ A minimal and reusable Flask starter template with a clean, modern UI and basic 
 ---
 
 ## Folder Structure
+```
 flask-template/
 │
 ├── app.py # Main Flask application
@@ -27,3 +28,4 @@ flask-template/
 │ └── script.js # JavaScript for counter
 └── images/
 └── flask-logo.png # Flask logo image
+```
